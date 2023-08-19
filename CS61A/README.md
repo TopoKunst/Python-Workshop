@@ -19,3 +19,10 @@ CS61 系列是伯克利 CS 专业的入门课，其中：
 - 课程教材：http://composingprograms.com/
 - 课程教材中文翻译：https://composingprograms.netlify.app/
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
+
+
+
+## reference
+
+- [PKUFlyingPig/CS61A (github.com)](https://github.com/PKUFlyingPig/CS61A)
+- [czahie/CS61A: Structure and Interpretation of Computer Programs (github.com)](https://github.com/czahie/CS61A)
